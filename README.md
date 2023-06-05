@@ -5,6 +5,8 @@
 
 Link do Colaboratory: https://colab.research.google.com/drive/1K8_27gvKvrWZnsZhuZ4C5Bk6zT9V1mZM?usp=sharing
 
+Link dos Dados: https://portal.inmet.gov.br/dadoshistoricos
+
 Datafólio:
 ![Datafolio INMET](https://github.com/GabrielBDias77/cienciadosdados/assets/79618686/5d8e314f-448d-4bd0-bc2a-043a2ae01322)
 
